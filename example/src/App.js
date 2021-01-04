@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'react-hoc'
+import { Button } from 'react-hoc';
 import 'react-hoc/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <Button label="Itcube 😄" />
 }
 
 export default App
