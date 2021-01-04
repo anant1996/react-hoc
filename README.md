@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save react-hoc
+npm install --save @anant1996/react-hoc
 ```
 
 ## Usage
